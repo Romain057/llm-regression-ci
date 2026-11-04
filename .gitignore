@@ -11,3 +11,6 @@ wheels/
 
 # Eval runs (local; in CI they go to the eval-results branch)
 results/
+
+#secrets
+.env
